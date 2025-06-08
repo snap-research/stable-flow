@@ -1,4 +1,4 @@
-# Stable Flow: Vital Layers for Training-Free Image Editing
+# Stable Flow: Vital Layers for Training-Free Image Editing [CVPR 2025]
 <a href="https://omriavrahami.com/stable-flow/"><img src="https://img.shields.io/static/v1?label=Project&message=Website&color=blue"></a>
 <a href="https://www.youtube.com/watch?v=_xYhppJj2a0"><img src="https://img.shields.io/static/v1?label=YouTube&message=Video&color=orange"></a>
 <a href="https://arxiv.org/abs/2411.14430"><img src="https://img.shields.io/badge/arXiv-2411.14430-b31b1b.svg"></a>
@@ -85,13 +85,12 @@ Then, the results will be saved to `outputs/result.jpg`, or any other path you s
 ## Citation
 If you find this useful for your research, please cite the following:
 ```bibtex
-@misc{avrahami2024stableflow,
-    title={Stable Flow: Vital Layers for Training-Free Image Editing}, 
-    author={Omri Avrahami and Or Patashnik and Ohad Fried and Egor Nemchinov and Kfir Aberman and Dani Lischinski and Daniel Cohen-Or},
-    year={2024},
-    eprint={2411.14430},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV},
-    url={https://arxiv.org/abs/2411.14430}, 
+@InProceedings{Avrahami_2025_CVPR,
+    author    = {Avrahami, Omri and Patashnik, Or and Fried, Ohad and Nemchinov, Egor and Aberman, Kfir and Lischinski, Dani and Cohen-Or, Daniel},
+    title     = {Stable Flow: Vital Layers for Training-Free Image Editing},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {7877-7888}
 }
 ```
